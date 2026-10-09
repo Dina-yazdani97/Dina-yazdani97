@@ -62,9 +62,9 @@ Here on GitHub, I share my research, mapping projects, and experiments with R, P
   <img src="https://img.shields.io/badge/terra-276DC3?style=flat-square" alt="terra"/>
   <img src="https://img.shields.io/badge/stars-276DC3?style=flat-square" alt="stars"/>
   <img src="https://img.shields.io/badge/tmap-276DC3?style=flat-square" alt="tmap"/>
-  <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square" alt="rayshader"/>
   <img src="https://img.shields.io/badge/Rasterio-4B8B3B?style=flat-square" alt="Rasterio"/>
-  <img src="https://img.shields.io/badge/Rasterio-4B8B3B?style=flat-square" alt="elevatr"/>
+  <img src="https://img.shields.io/badge/rayshader-2D6A4F?style=flat-square" alt="rayshader"/> 
+  <img src="https://img.shields.io/badge/elevatr-6A8EAE?style=flat-square" alt="elevatr"/>
 </p>
 
 ### 📊 Data Science & Visualization
