@@ -80,41 +80,6 @@ Here on GitHub, I share my research, mapping projects, and experiments with R, P
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
 </p>
 
----
-
-## 📚 Research & Projects
-
-My GitHub repositories showcase my work and learning in R programming, cartography, geospatial analysis, and data science.
-
-I am particularly interested in projects that combine spatial data processing, statistical analysis, visualization, and machine learning to answer meaningful research questions.
-
-**Areas I aim to explore through research projects:**
-
-* 🗺️ Thematic mapping and cartographic design
-* 🌐 Spatial data processing and analysis
-* 🛰️ Raster data analysis and spatial visualization
-* 📈 Statistical learning and predictive modeling
-* 🌦️ Environmental and climate data analysis
-* 🔬 Reproducible geospatial research workflows
-
-> Explore my repositories for code, maps, and geospatial analysis projects.
-
----
-
-## 🎓 Teaching & Knowledge Sharing
-
-I teach **R programming for geospatial applications**, with an emphasis on practical workflows and reproducible analysis.
-
-My teaching interests include:
-
-* Working with spatial vector data using `sf`
-* Raster data processing and analysis using `terra`
-* Creating thematic maps with `tmap` and `ggplot2`
-* Exploring and visualizing geospatial datasets
-* Introducing data science and machine learning workflows
-
----
-
 ## 🤝 Collaboration
 
 I welcome opportunities to collaborate with researchers, students, and professionals on projects related to:
