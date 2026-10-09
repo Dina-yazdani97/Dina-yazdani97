@@ -135,12 +135,4 @@ If you are working on a related project, feel free to connect with me.
 
 ## 📫 Get in Touch
 
-📧 **Email:** [Dina.Yazdany@gmail.com](mailto:Dina.Yazdany@gmail.com)
-
-💻 **GitHub:** [Dina-yazdani97](https://github.com/Dina-yazdani97)
-
----
-
-<p align="center">
-  <em>Making sense of our world through spatial data, research, and maps. 🌍</em>
-</p>
+<p align="center"> <a href="https://www.linkedin.com/in/dina-yazdani"> <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me on LinkedIn"/> </a> <a href="mailto:Dina.Yazdany@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/> </a> </p>
