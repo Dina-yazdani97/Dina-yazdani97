@@ -7,10 +7,6 @@
 </p>
 
 <p align="center">
-  <em>Exploring spatial patterns and transforming geospatial data into meaningful insights.</em>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Focus-Geospatial%20Research-2E6F95?style=flat-square" alt="Geospatial Research"/>
   <img src="https://img.shields.io/badge/Programming-R%20%7C%20Python-276DC3?style=flat-square" alt="R and Python"/>
   <img src="https://img.shields.io/badge/Interests-Cartography%20%7C%20ML-4C956C?style=flat-square" alt="Cartography and Machine Learning"/>
