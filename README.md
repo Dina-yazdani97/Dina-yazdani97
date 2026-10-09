@@ -64,7 +64,6 @@ Here on GitHub, I share my research, mapping projects, and experiments with R, P
   <img src="https://img.shields.io/badge/tmap-276DC3?style=flat-square" alt="tmap"/>
   <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square" alt="GeoPandas"/>
   <img src="https://img.shields.io/badge/Rasterio-4B8B3B?style=flat-square" alt="Rasterio"/>
-  <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white" alt="QGIS"/>
 </p>
 
 ### 📊 Data Science & Visualization
